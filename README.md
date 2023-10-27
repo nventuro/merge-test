@@ -1,3 +1,3 @@
 # merge-test
 
-This is a merge test.
+This is a readme for a merge test.
